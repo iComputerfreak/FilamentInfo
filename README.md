@@ -12,7 +12,7 @@ The following URL parameters are supported
 | extruder_temp | No | 215 |
 | bed_temp | No | 65 |
 
-A valid example URL would look like this: https://example.org/index.php?material=PLA&brand=Polymaker&product_line=PolyLite&color=Yellow&color_code=FFE800&extruder_temp=215&bed_temp=65
+A valid example URL would look like this: [https://filamentswatch.info/index.php?material=PLA&brand=Polymaker&product_line=PolyLite&color=Yellow&color_code=FFE800&extruder_temp=215&bed_temp=65](https://filamentswatch.info/index.php?material=PLA&brand=Polymaker&product_line=PolyLite&color=Yellow&color_code=FFE800&extruder_temp=215&bed_temp=65)
 
 The website looks like this:
 
